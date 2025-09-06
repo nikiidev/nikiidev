@@ -1,5 +1,5 @@
 <h1 align="center">Ｈｅｌｌｏ  (｡◕‿‿◕｡)  Ｖｉｓｉｔｏｒ！</h1>
-<h4 align="center">Ａｂｏｕｔ Ｍｅ</h4>
+<h3 align="center">Ａｂｏｕｔ Ｍｅ</h3>
 
 <img align="center" width="100%" src="attachments/terminal(2).gif"/>
 
